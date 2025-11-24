@@ -9,3 +9,5 @@ git add # ajoute des elements a la staging area
 git add . # ajoute tous les changements depuis le repertoire courant
 git commit -m "" # cree un commit avec son message
 ```
+
+## Suite
